@@ -61,3 +61,9 @@
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
+### Tagging
+
+| Command | Description |
+| ------- | ----------- |
+| `git tag <tagname>` | Lightweight tags types of tags are just pointers to a commit without any other additional metadata. |
+| `git tag -a <tagname> -m "Tag message"` | Annotated tags are full-fledged objects within the Git database that preserve information such as the tagger’s name, email address, date of creation and a tagging message |

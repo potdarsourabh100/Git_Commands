@@ -1,14 +1,13 @@
 # Git_Commands
-======================
 
-### Getting & Creating Projects
+### Getting & Creating Repositories
 
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
-### Basic Snapshotting
+### Daily commands need for basic operations
 
 | Command | Description |
 | ------- | ----------- |
